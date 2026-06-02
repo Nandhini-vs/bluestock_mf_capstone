@@ -1,0 +1,10 @@
+DATA QUALITY SUMMARY — Day 1
+=============================================
+Total CSV files loaded      : 10
+Schemes in fund_master      : 40
+Schemes in nav_history      : 40
+In master but NOT in nav    : 0
+In nav but NOT in master    : 0
+
+Anomalies found:
+  - 04_monthly_sip_inflows.csv: 12 null values
